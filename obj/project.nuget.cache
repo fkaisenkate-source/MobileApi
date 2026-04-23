@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NvVLMQh3JV4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kai\\MobileApi\\MobileApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kai\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\kai\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.7\\microsoft.entityframeworkcore.10.0.7.nupkg.sha512",
+    "C:\\Users\\kai\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.7\\microsoft.entityframeworkcore.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\kai\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.7\\microsoft.entityframeworkcore.analyzers.10.0.7.nupkg.sha512",
+    "C:\\Users\\kai\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.7\\microsoft.entityframeworkcore.inmemory.10.0.7.nupkg.sha512",
+    "C:\\Users\\kai\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
